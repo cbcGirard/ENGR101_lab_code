@@ -1,7 +1,7 @@
 /***********************************************************
 File name: Lesson_13_Controlling_DC_motor.ino
 Description: drive the motor using
-              the L9110 chip
+              the L293D chip
 Website: www.uctronics.com 
 E-mail: sales@uctronics.com 
 Author: Lee
